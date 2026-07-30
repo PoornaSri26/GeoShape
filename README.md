@@ -17,6 +17,12 @@
   <a href="#-credits">Credits</a>
 </p>
 
+<p align="center">
+  <a href="https://geoshape.onrender.com" target="_blank">
+    <img src="https://img.shields.io/badge/🌍%20Live%20Demo-geoshape.onrender.com-4CAF50?style=for-the-badge" alt="Live Demo" />
+  </a>
+</p>
+
 ---
 
 ## ✨ Features
@@ -95,6 +101,10 @@ The game will be available at `http://localhost:3000`.
 ---
 
 ## 🌐 Deployment
+
+### 🚀 Live Instance
+
+The game is live and playable at: **[https://geoshape.onrender.com](https://geoshape.onrender.com)**
 
 ### Cloud Platforms (Render / Railway / Fly.io / Cloud Run)
 
