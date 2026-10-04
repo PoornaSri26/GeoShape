@@ -25,6 +25,16 @@
 
 ---
 
+## Demo
+
+Check out the demo to see GeoShape in action:
+
+![Demo](brag-output/brag.gif)
+
+*Auto-generated promotional animation*
+
+---
+
 ## ✨ Features
 
 - 🎮 **Solo & Real-Time Multiplayer** — Play practice mode solo or create custom lobbies with shareable 4-letter room codes.
